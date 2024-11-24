@@ -33,7 +33,7 @@ def start_application():
     app_server = FastAPI(
         docs_url=None,
         redoc_url=None,
-        title='ACTIVY PROVIDER - FOOTBALL',
+        title='ACTIVITY PROVIDER - FOOTBALL',
         version='V001',
         description='Provedor de Actividade da UC - Mestrado em Eng. Informatica e Aplicações Web',
     )
